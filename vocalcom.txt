@@ -1,0 +1,8 @@
+Tendry;p;agent.php
+nomena;u;agent.php
+Murielle;a;agent.php
+responsablewfm;a;agent.php
+Tendry;data;datanalyst.php
+Murielle;data;datanalyst.php
+Tendry;supervision;supervision.php
+Murielle;supervision;supervision.php

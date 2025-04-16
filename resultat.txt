@@ -1,0 +1,612 @@
+CSA,MISSDN,SOUSCRIPTEUR,TICKET,TYPO,QUALIFICATION,"MOTIF REJET","TPE DE TRAITEMENT",AFFECTATION,STATUT,DEBUT,FIN,DATE
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 10:39:45;10:39:50;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 10:41:02;10:41:05;23-01-2025
+Tendry;0346379707;;1705790855;reclamer / MVola /;certifié;;Traitement predictif;code secret;traitement; 10:41:05;10:41:09;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 10:41:09;10:41:11;23-01-2025
+Tendry;missdn;animateur;Ticke;typo;certifié;Motif rejge;Traitement manuel;code secret;; 10:41:10;10:41:26;23-01-2025
+Tendry;Missdn;;;;certifié;;APPEL;code secret;APPEL; 10:41:26;10:41:30;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 10:41:30;10:43:57;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 10:43:57;10:43:59;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 13:59:50;13:59:53;23-01-2025
+Tendry;﻿0346877848;1705790882;;;certifié;;Traitement predictif;code secret;traitement; 13:59:53;13:59:54;23-01-2025
+Tendry;0383224879;1705800779;;;certifié;;Traitement predictif;code secret;traitement; 13:59:54;13:59:58;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 14:00:44;14:00:46;23-01-2025
+nomena;﻿0346877848;1705790882;;;certifié;;Traitement predictif;certification;traitement; 14:00:46;14:00:47;23-01-2025
+nomena;0383224879;1705800779;;;certifié;;Traitement predictif;certification;traitement; 14:00:47;14:00:48;23-01-2025
+nomena;0383056242;1705790876;;;certifié;;Traitement predictif;certification;traitement; 14:00:48;14:00:48;23-01-2025
+nomena;0388328231;1705800775;;;certifié;;Traitement predictif;certification;traitement; 14:00:48;14:05:00;23-01-2025
+nomena;0344488620;;;;certifié;;Traitement predictif;certification;traitement; 14:05:00;14:05:01;23-01-2025
+nomena;0349052208;;;;certifié;;Traitement predictif;certification;traitement; 14:05:01;14:05:02;23-01-2025
+nomena;0382687313;;;;certifié;;Traitement predictif;certification;traitement; 14:05:02;14:05:03;23-01-2025
+nomena;0381783651;;;;certifié;;Traitement predictif;certification;traitement; 14:05:03;14:05:40;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 14:06:01;14:06:02;23-01-2025
+nomena;﻿0346877848;1705790882;;;certifié;;Traitement predictif;certification;traitement; 14:06:02;14:06:03;23-01-2025
+nomena;0383224879;1705800779;;;certifié;;Traitement predictif;certification;traitement; 14:06:03;14:06:04;23-01-2025
+nomena;0383056242;1705790876;;;certifié;;Traitement predictif;certification;traitement; 14:06:04;14:06:05;23-01-2025
+nomena;0388328231;1705800775;;;certifié;;Traitement predictif;certification;traitement; 14:06:05;14:06:05;23-01-2025
+nomena;0344488620;1705800773;;;certifié;;Traitement predictif;certification;traitement; 14:06:05;14:06:06;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:12:56;14:13:00;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:14:21;14:14:24;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:15:14;14:15:16;23-01-2025
+nomena;0344321875;1705800765;;;certifié;MSISDN_erronee;Traitement predictif;certification;traitement; 14:15:16;14:15:53;23-01-2025
+nomena;0346379707;1705790855;;;certifié;MSISDN_erronee;Traitement predictif;certification;traitement; 14:15:53;14:15:57;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;PAUSE_BREAK; 14:15:57;14:15:58;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;APPEL;certification;APPEL; 14:15:58;14:15:59;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;APPEL;certification;APPEL; 14:15:58;14:16:13;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:16:47;14:16:50;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:17:02;14:17:04;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:17:12;14:17:13;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:17:40;14:17:43;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:18:11;14:18:13;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 14:19:06;14:19:08;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:19:51;14:19:52;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:20:49;14:20:50;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:21:04;14:21:05;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:21:22;14:21:23;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:21:34;14:21:36;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:21:42;14:21:43;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:22:01;14:22:03;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:22:44;14:22:46;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:23:00;14:23:02;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:23:22;14:23:24;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:24:11;14:24:13;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:24:28;14:24:31;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:25:06;14:25:08;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:25:15;14:25:16;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:25:29;14:25:30;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:25:53;14:25:55;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:26:30;14:26:31;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:27:23;14:27:25;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;; 14:28:06;14:28:08;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;Traitement predictif;certification;PAUSE_BREAK; 14:28:08;14:28:30;23-01-2025
+nomena;;;;;certifié;MSISDN_erronee;APPEL;certification;APPEL; 14:28:30;14:28:38;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:29:31;14:29:32;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:29:32;14:32:45;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:36:31;14:36:42;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:36:42;14:36:43;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:36:58;14:37:03;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:03;14:37:51;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:51;14:37:52;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:52;14:37:53;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:53;14:37:54;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:54;14:37:54;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:54;14:37:55;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:55;14:37:55;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:55;14:37:56;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:56;14:37:56;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:56;14:37:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:57;14:37:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:57;14:37:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:57;14:37:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:37:57;14:37:58;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:37;14:38:38;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:38:38;14:38:40;23-01-2025
+nomena;;;;;;;APPEL;certification;APPEL; 14:38:40;14:38:41;23-01-2025
+nomena;;;;;;;Traitement manuel;certification;; 14:38:41;14:38:43;23-01-2025
+nomena;;;;;;;APPEL;certification;APPEL; 14:38:43;14:38:46;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:38:46;14:38:51;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:51;14:38:52;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:52;14:38:53;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:53;14:38:54;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:54;14:38:55;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:55;14:38:55;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:55;14:38:56;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:56;14:38:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:57;14:38:57;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:57;14:38:58;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:58;14:38:59;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:38:59;14:39:00;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:00;14:39:00;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:00;14:39:01;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:01;14:39:01;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:01;14:39:02;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:02;14:39:03;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:03;14:39:04;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:04;14:39:05;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:05;14:39:06;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:06;14:39:07;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:07;14:39:07;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:07;14:39:07;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:07;14:39:09;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:08;14:39:09;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:09;14:39:10;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:10;14:39:10;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:10;14:39:10;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:10;14:39:11;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:11;14:39:11;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:11;14:39:12;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:12;14:39:13;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:39:13;14:39:14;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 14:39:27;14:39:29;23-01-2025
+Tendry;0383056242;;;;;;Traitement predictif;code secret;traitement; 14:39:29;14:39:31;23-01-2025
+Tendry;0388328231;;;;;;Traitement predictif;code secret;traitement; 14:39:31;14:39:31;23-01-2025
+Tendry;0344488620;;;;;;Traitement predictif;code secret;traitement; 14:39:31;14:39:32;23-01-2025
+Tendry;0349052208;;;;;;Traitement predictif;code secret;traitement; 14:39:32;14:39:33;23-01-2025
+Tendry;0382687313;;;;;;Traitement predictif;code secret;traitement; 14:39:33;14:39:34;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 14:39:34;14:39:36;23-01-2025
+Tendry;ss;;;;;;APPEL;code secret;APPEL; 14:39:36;14:39:38;23-01-2025
+Tendry;sf;sf;sf;sf;;;Traitement manuel;code secret;; 14:39:38;14:39:42;23-01-2025
+Tendry;;;;;;;Traitement manuel;code secret;; 14:39:42;14:39:43;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 14:39:43;14:39:44;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 14:39:44;14:39:47;23-01-2025
+Tendry;0381783651;;;;;;Traitement predictif;code secret;traitement; 14:39:47;14:39:48;23-01-2025
+Tendry;0344321875;;;;;;Traitement predictif;code secret;traitement; 14:39:48;14:39:49;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 14:40:29;14:40:31;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 14:40:31;14:40:35;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 14:40:35;14:40:43;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 14:40:43;14:40:46;23-01-2025
+Tendry;;;;;;;APPEL;code secret;APPEL; 14:40:46;14:40:49;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 14:40:49;14:41:24;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:24;14:41:26;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:26;14:41:27;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:27;14:41:28;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:27;14:41:28;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:28;14:41:28;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:28;14:41:29;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:29;14:41:29;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:29;14:41:29;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:29;14:41:30;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:30;14:41:31;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:31;14:41:31;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:31;14:41:32;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:32;14:41:32;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:32;14:41:33;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:41:33;14:41:36;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:36;14:41:37;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:37;14:41:50;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:50;14:41:51;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:51;14:41:51;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:51;14:41:52;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:41:58;14:42:00;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:42:00;14:42:00;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:42:00;14:42:01;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:01;14:43:02;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:02;14:43:03;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:03;14:43:03;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:03;14:43:04;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:04;14:43:04;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:04;14:43:05;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:05;14:43:05;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:05;14:43:27;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:49;14:43:50;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:43:50;14:43:51;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:06;14:44:08;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:08;14:44:08;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:08;14:44:09;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:09;14:44:09;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:09;14:44:09;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:09;14:44:10;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:10;14:44:11;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:44:11;14:44:12;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 14:44:12;14:44:12;23-01-2025
+nomena;;;;;;;APPEL;certification;APPEL; 14:44:12;14:44:13;23-01-2025
+nomena;;;;;;;Traitement manuel;certification;; 14:44:13;14:44:14;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:14;14:44:15;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:15;14:44:20;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:20;14:44:21;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:21;14:44:22;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:22;14:44:22;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:22;14:44:23;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 14:44:23;14:44:37;23-01-2025
+nomena;;;;;;;Traitement predictif;;PAUSE_BREAK; 14:44:37;14:44:38;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:38;14:44:40;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:40;14:44:41;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:41;14:44:42;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:42;14:44:43;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:43;14:44:44;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:44;14:44:44;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:44;14:44:44;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:44;14:44:45;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:45;14:44:45;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:45;14:44:45;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:45;14:44:45;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:45;14:44:47;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:47;14:44:47;23-01-2025
+;;;;;;;Traitement predictif;;; 14:44:47;14:44:47;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 14:45:24;14:45:39;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;traitement; 14:45:39;14:45:44;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 14:45:44;14:45:46;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 14:45:46;14:45:47;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 14:45:47;14:45:47;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 14:45:47;14:45:52;23-01-2025
+Tendry;0346877848;;1705790882;reclamer / MVola /;certifié;;Traitement predictif;code secret;traitement; 14:45:52;14:45:54;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:47:51;14:47:53;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:48:40;14:48:42;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:49:15;14:49:17;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:49:47;14:49:48;23-01-2025
+Tendry;0388328231;;1705800775;reclamer / MVola /;certifié;MSISDN_erronee;Traitement predictif;code secret;traitement; 14:49:48;14:49:50;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:49:58;14:51:02;23-01-2025
+Tendry;0344488620;;1705800773;reclamer / MVola /;certifié;MSISDN_erronee;Traitement predictif;code secret;traitement; 14:51:02;14:51:32;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:51:32;14:51:34;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:51:51;14:51:52;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:51:52;14:51:53;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:51:53;14:51:53;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 14:52:08;14:52:09;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:19;14:55:20;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:20;14:55:21;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:21;14:55:21;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:21;14:55:22;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:22;14:55:22;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:22;14:55:22;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:22;14:55:23;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:23;14:55:23;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:23;14:55:24;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:24;14:55:24;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:24;14:55:24;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:24;14:55:25;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:25;14:55:25;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:25;14:55:25;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 14:55:25;15:03:38;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:38;15:03:39;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:39;15:03:39;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:39;15:03:40;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:40;15:03:41;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:41;15:03:42;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:42;15:03:42;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:42;15:03:43;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:43;15:03:43;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:43;15:03:44;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:44;15:03:44;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:44;15:03:44;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:44;15:03:45;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:45;15:03:46;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:46;15:03:46;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:46;15:03:51;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:51;15:03:52;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:52;15:03:52;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:52;15:03:53;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:53;15:03:54;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:54;15:03:55;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:55;15:03:55;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:55;15:03:56;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:56;15:03:57;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:57;15:03:57;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:57;15:03:58;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:58;15:03:59;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:58;15:03:59;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:03:59;15:04:00;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:04:00;15:04:01;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:04:20;15:04:22;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:04:22;15:04:22;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:04:22;15:04:23;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:04:23;15:04:23;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:04:40;15:04:41;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:05:13;15:05:14;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:06:58;15:07:00;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:07:00;15:07:01;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:07:01;15:07:02;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:07:02;15:07:02;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:07:02;15:07:05;23-01-2025
+Tendry;0349052208;;1705790866;reclamer / MVola /;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;traitement; 15:07:05;15:07:08;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:08:31;15:08:35;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:08:35;15:08:37;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:09:35;15:09:37;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:09;15:10:11;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:11;15:10:11;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:11;15:10:12;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:12;15:10:13;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:38;15:10:39;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:46;15:10:48;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:10:55;15:10:56;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:11:07;15:11:08;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:11:25;15:11:26;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:11:42;15:11:43;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:11:54;15:11:55;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:12:11;15:12:12;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:12:29;15:12:30;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:12:50;15:12:51;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:13:18;15:13:19;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:13:27;15:13:28;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:13:40;15:13:41;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:13:41;15:13:42;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:14:28;15:14:29;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:14:29;15:14:30;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:14:30;15:14:30;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:14:30;15:14:31;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:15:26;15:15:27;23-01-2025
+Tendry;;;;;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;; 15:17:40;15:17:43;23-01-2025
+Tendry;0382687313;;1705790865;reclamer / MVola /;certifié;piece_identite_falsifiee_capture;Traitement predictif;code secret;traitement; 15:17:43;15:17:49;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:40;15:19:44;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:44;15:19:45;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:45;15:19:45;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:45;15:19:46;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:46;15:19:46;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:46;15:19:47;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:47;15:19:47;23-01-2025
+Tendry;;;;;certifié;MSISDN_erronee;Traitement predictif;code secret;; 15:19:47;15:19:48;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:42;15:43:43;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:43;15:43:44;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:44;15:43:45;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:45;15:43:46;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:46;15:43:46;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:46;15:43:46;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:46;15:43:47;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:47;15:43:47;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:47;15:43:48;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:48;15:43:48;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:43:48;15:43:49;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:24;15:44:25;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:25;15:44:26;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:26;15:44:27;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:27;15:44:27;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:27;15:44:28;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:28;15:44:28;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:28;15:44:29;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:29;15:44:29;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:29;15:44:29;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:44:29;15:44:30;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:48:53;15:48:58;23-01-2025
+Tendry;0381783651;;1705790863;reclamer / MVola /;certifié;0_dossier;Traitement predictif;code secret;traitement; 15:48:58;15:49:03;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:03;15:49:04;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:04;15:49:04;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:04;15:49:05;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:05;15:49:05;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:05;15:49:06;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:06;15:49:06;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:06;15:49:06;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:06;15:49:07;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:07;15:49:07;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:07;15:49:08;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:08;15:49:08;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:08;15:49:09;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:09;15:49:09;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:09;15:49:10;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:10;15:49:10;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:10;15:49:11;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:49:11;15:49:11;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:50:52;15:50:53;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:18;15:51:19;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:37;15:51:38;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:50;15:51:52;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:52;15:51:52;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:52;15:51:53;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:53;15:51:53;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:53;15:51:54;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:54;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:54;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:55;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:55;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:55;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:54;15:51:55;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:51:55;15:51:55;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:16;15:52:17;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:34;15:52:35;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:35;15:52:38;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:38;15:52:39;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:39;15:52:41;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:41;15:52:44;23-01-2025
+Tendry;;;;;certifié;0_dossier;Traitement predictif;code secret;; 15:52:44;15:52:45;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:53:56;15:53:58;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:53:58;15:53:59;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:53:59;15:53:59;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:53:59;15:54:00;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:00;15:54:01;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:01;15:54:01;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:01;15:54:02;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:02;15:54:02;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:02;15:54:03;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:03;15:54:04;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:04;15:54:04;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:04;15:54:04;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:04;15:54:05;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:05;15:54:06;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:06;15:54:06;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:54:06;15:54:07;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:14;15:56:16;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:16;15:56:17;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:17;15:56:17;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:17;15:56:18;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:18;15:56:18;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:18;15:56:20;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:20;15:56:21;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:21;15:56:21;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 15:56:34;15:56:35;23-01-2025
+Tendry;0344321875;;1705800765;reclamer / MVola /;certifié;;Traitement predictif;code secret;traitement; 15:56:35;15:56:38;23-01-2025
+Tendry;0346379707;;1705790855;reclamer / MVola /;certifié;;Traitement predictif;code secret;traitement; 15:56:38;15:56:39;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:42;16:00:43;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:43;16:00:44;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:44;16:00:45;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:45;16:00:45;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:45;16:00:46;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:46;16:00:47;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:47;16:00:48;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:48;16:00:50;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:50;16:00:51;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:51;16:00:53;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:53;16:00:54;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:54;16:00:56;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:56;16:00:57;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:57;16:00:57;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:57;16:00:58;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:58;16:00:58;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:58;16:00:59;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:59;16:00:59;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:00:59;16:01:00;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:00;16:01:00;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:00;16:01:01;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:00;16:01:01;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:01;16:01:01;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:01;16:01:02;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:02;16:01:02;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:02;16:01:03;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:03;16:01:03;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:03;16:01:04;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:04;16:01:04;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:04;16:01:06;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:51;16:01:53;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:53;16:01:54;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:54;16:01:55;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:55;16:01:55;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:55;16:01:56;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:01:56;16:01:56;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:02:11;16:02:15;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:03:03;16:03:06;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:04:37;16:04:39;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:09:07;16:09:10;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:11:49;16:11:50;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:12:22;16:12:25;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:12:25;16:12:27;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:12:38;16:12:40;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:12:40;16:12:42;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;; 16:13:09;16:13:10;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:13:10;16:13:12;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:13:12;16:13:13;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:13:13;16:13:14;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:13:14;16:13:15;23-01-2025
+Tendry;;;;;certifié;0 Dossier;Traitement predictif;code secret;PAUSE_BREAK; 16:13:15;16:13:15;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 16:14:09;16:14:11;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:14:11;16:14:13;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:14:13;16:14:14;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:14:14;16:14:21;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:14:21;16:14:22;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:14:22;16:14:23;23-01-2025
+Tendry;;;;;certifié;;APPEL;code secret;APPEL; 16:14:23;16:14:24;23-01-2025
+Tendry;;;;;certifié;dgdgdstndtgdtdt;Traitement manuel;code secret;; 16:14:24;16:14:29;23-01-2025
+Tendry;;;;;certifié;;Traitement manuel;code secret;; 16:14:29;16:14:30;23-01-2025
+Tendry;;;;;certifié;ddgdgdgdg;Traitement manuel;code secret;; 16:14:30;16:14:33;23-01-2025
+Tendry;;;;;certifié;;Traitement manuel;code secret;; 16:14:33;16:14:34;23-01-2025
+Tendry;;;;;certifié;;Traitement manuel;code secret;; 16:14:34;16:14:35;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 16:16:40;16:16:43;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:16:43;16:16:45;23-01-2025
+Tendry;;;;;certifié;;Traitement manuel;code secret;; 16:16:45;16:16:57;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 16:20:27;16:20:40;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:20:40;16:20:42;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 16:20:42;16:20:44;23-01-2025
+Tendry;;;;;certifié;;Traitement manuel;code secret;; 16:20:44;16:20:52;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 16:20:57;16:21:00;23-01-2025
+nomena;;;;;certifié;ddgdgddgdgdggdgdgdgdd;Traitement predictif;certification;PAUSE_BREAK; 16:21:00;16:21:08;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 16:21:13;16:22:21;23-01-2025
+nomena;;;;;certifié;0 Dossier;Traitement predictif;certification;; 16:22:25;16:22:26;23-01-2025
+nomena;;;;;certifié;0 Dossier;Traitement predictif;certification;; 16:24:58;16:25:00;23-01-2025
+;;;;;certifié;0 Dossier;Traitement predictif;;; 16:25:47;16:25:49;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;; 16:28:10;16:28:13;23-01-2025
+Tendry;;;;;certifié;;APPEL;code secret;APPEL; 16:28:13;16:29:00;23-01-2025
+nomena;;;;;certifié;;Traitement predictif;certification;; 16:29:06;16:29:07;23-01-2025
+nomena;﻿0346877848;1705790882;;;certifié;;Traitement predictif;certification;traitement; 16:29:07;16:29:10;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:30:18;16:30:19;23-01-2025
+nomena;0383056242;1705790876;;;;;Traitement predictif;certification;traitement; 16:30:19;16:30:22;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:30:59;16:31:01;23-01-2025
+nomena;0388328231;1705800775;;;;;Traitement predictif;certification;traitement; 16:31:01;16:31:04;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:31:36;16:31:37;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:32:15;16:32:17;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:32:30;16:32:30;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:32:51;16:32:53;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:13;16:33:14;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:14;16:33:28;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:27;16:33:28;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:28;16:33:28;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:30;16:33:31;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:40;16:33:41;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:41;16:33:51;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:51;16:33:52;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:52;16:33:52;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:52;16:33:52;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:33:52;16:33:53;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:34:04;16:34:05;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:38:07;16:38:08;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:38:12;16:38:18;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:38:18;16:38:19;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:38:19;16:38:20;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:38:20;16:38:25;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:38:25;16:38:26;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:38:26;16:38:26;23-01-2025
+Tendry;;;;;;;APPEL;code secret;APPEL; 16:38:26;16:38:28;23-01-2025
+Tendry;;;;;;;Traitement manuel;code secret;; 16:38:28;16:38:30;23-01-2025
+Tendry;;;;;;;Traitement manuel;code secret;; 16:38:30;16:38:30;23-01-2025
+Tendry;;;;;;;APPEL;code secret;APPEL; 16:38:30;16:38:32;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:38:57;16:38:59;23-01-2025
+Tendry;﻿0346877848;1705790882;;;;;Traitement predictif;code secret;traitement; 16:38:59;16:39:02;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:39:06;16:39:07;23-01-2025
+nomena;0344488620;1705800773;;;;;Traitement predictif;certification;traitement; 16:39:07;16:39:12;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:39:54;16:39:56;23-01-2025
+nomena;0349052208;1705790866;;;certifié;contrat_manquant;Traitement predictif;certification;traitement; 16:39:56;16:40:01;23-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 16:40:07;16:43:12;23-01-2025
+nomena;0382687313;1705790865;;;;;Traitement predictif;certification;traitement; 16:43:12;16:43:18;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:45:24;16:45:29;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;traitement; 16:45:29;16:45:37;23-01-2025
+Tendry;;;dgdg;dg;;;Traitement manuel;code secret;; 16:45:37;16:45:44;23-01-2025
+Tendry;;;dg;dgd;;;Traitement manuel;code secret;; 16:45:44;16:46:12;23-01-2025
+Tendry;0346877848;;1705790882;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:46:11;16:46:18;23-01-2025
+Tendry;0383224879;;1705800779;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:46:18;16:46:20;23-01-2025
+Tendry;0383056242;;1705790876;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:46:20;16:46:24;23-01-2025
+Tendry;;;;;;;Traitement manuel;code secret;; 16:46:24;16:47:03;23-01-2025
+Tendry;;;;;;;Traitement predictif;code secret;; 16:47:32;16:47:42;23-01-2025
+Tendry;0388328231;;1705800775;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:47:42;16:47:59;23-01-2025
+Tendry;0344488620;;1705800773;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:47:59;16:48:45;23-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 16:49:04;16:49:07;23-01-2025
+Tendry;﻿0346877848;1705790882;;;;;Traitement predictif;certification;traitement; 16:49:07;16:49:09;23-01-2025
+Tendry;0383224879;1705800779;;;;;Traitement predictif;certification;traitement; 16:49:09;16:49:10;23-01-2025
+Tendry;0383056242;1705790876;;;;;Traitement predictif;certification;traitement; 16:49:10;16:49:13;23-01-2025
+Tendry;0388328231;1705800775;;;;;Traitement predictif;certification;traitement; 16:49:13;16:49:26;23-01-2025
+Tendry;0344488620;1705800773;;;;;Traitement predictif;certification;traitement; 16:49:26;16:49:28;23-01-2025
+Tendry;0349052208;1705790866;;;;;Traitement predictif;certification;traitement; 16:49:28;16:49:30;23-01-2025
+Tendry;0382687313;1705790865;;;;;Traitement predictif;certification;traitement; 16:49:30;16:49:33;23-01-2025
+Tendry;0381783651;1705790863;;;;;Traitement predictif;certification;traitement; 16:49:33;16:49:33;23-01-2025
+Tendry;0344321875;1705800765;;;;;Traitement predictif;certification;traitement; 16:49:33;16:49:34;23-01-2025
+Tendry;0346379707;1705790855;;;;;Traitement predictif;certification;traitement; 16:49:34;16:50:01;23-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 16:50:03;16:50:07;23-01-2025
+Tendry;﻿0346877848;1705790882;;;;;Traitement predictif;certification;traitement; 16:50:07;16:50:15;23-01-2025
+Tendry;0383224879;1705800779;;;;;Traitement predictif;certification;traitement; 16:50:15;16:50:16;23-01-2025
+Tendry;0383056242;1705790876;;;;;Traitement predictif;certification;traitement; 16:50:16;16:50:20;23-01-2025
+Tendry;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 16:50:20;16:50:26;23-01-2025
+Tendry;;;;;;;Traitement predictif;certification;PAUSE_OSTIE; 16:50:26;16:50:40;23-01-2025
+Tendry;;;;;;;Traitement predictif;certification;PAUSE_COACHING; 16:50:40;16:50:48;23-01-2025
+Tendry;;;;;;;APPEL;certification;APPEL; 16:50:48;16:50:54;23-01-2025
+Tendry;;;;;certifié;;Traitement predictif;code secret;PAUSE_BREAK; 10:43:59;08:32:29;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 08:32:44;08:32:50;24-01-2025
+Tendry;0388328231;1705800775;;;;;Traitement predictif;certification;traitement; 08:32:50;08:32:54;24-01-2025
+Tendry;0344488620;1705800773;;;;;Traitement predictif;certification;traitement; 08:32:54;08:32:55;24-01-2025
+Tendry;0349052208;1705790866;;;;;Traitement predictif;certification;traitement; 08:32:55;08:32:59;24-01-2025
+Tendry;0382687313;1705790865;;;;;Traitement predictif;certification;traitement; 08:32:59;08:33:26;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 08:34:17;08:34:19;24-01-2025
+Tendry;0381783651;1705790863;;;;;Traitement predictif;certification;traitement; 08:34:19;08:34:20;24-01-2025
+Tendry;0344321875;1705800765;;;;;Traitement predictif;certification;traitement; 08:34:20;08:34:24;24-01-2025
+Tendry;0346379707;1705790855;;;;;Traitement predictif;certification;traitement; 08:34:24;08:34:34;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 08:34:34;08:34:55;24-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 08:35:10;08:35:14;24-01-2025
+nomena;;;;;;;Traitement predictif;certification;; 08:35:21;08:35:31;24-01-2025
+nomena;;;;;;;Traitement predictif;code secret;; 08:35:35;08:35:37;24-01-2025
+nomena;;;;;;;Traitement predictif;code secret;traitement; 08:35:37;08:35:48;24-01-2025
+nomena;0346877848;;1705790882;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:35:48;08:35:53;24-01-2025
+nomena;0383224879;;1705800779;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:35:53;08:35:56;24-01-2025
+nomena;0383056242;;1705790876;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:35:56;08:35:59;24-01-2025
+nomena;0388328231;;1705800775;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:35:59;08:36:01;24-01-2025
+nomena;0344488620;;1705800773;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:36:01;08:36:02;24-01-2025
+nomena;0349052208;;1705790866;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:36:02;08:36:04;24-01-2025
+nomena;0382687313;;1705790865;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 08:36:04;08:36:07;24-01-2025
+nomena;;;;;;;Traitement manuel;code secret;; 08:36:07;08:36:14;24-01-2025
+nomena;;;;;;;APPEL;code secret;APPEL; 08:36:14;08:36:17;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 09:03:05;09:04:37;24-01-2025
+Tendry;﻿0346877848;1705790882;;;;;Traitement predictif;certification;traitement; 09:04:37;09:04:40;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;PAUSE_BREAK; 09:04:40;09:04:43;24-01-2025
+Tendry;;;;;;;Traitement predictif;certification;; 09:05:24;09:05:26;24-01-2025
+Tendry;0383224879;1705800779;;;;;Traitement predictif;certification;traitement; 09:05:26;09:05:28;24-01-2025
+Tendry;0383056242;1705790876;;;;;Traitement predictif;certification;traitement; 09:05:28;09:05:30;24-01-2025
+nomena;;;;;;;Traitement predictif;code secret;; 10:44:49;10:44:52;30-01-2025
+nomena;;;;;;;Traitement predictif;code secret;traitement; 10:44:52;10:44:57;30-01-2025
+nomena;0346877848;;1705790882;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 10:44:57;10:45:05;30-01-2025
+nomena;0383224879;;1705800779;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 10:45:05;10:45:07;30-01-2025
+nomena;0383056242;;1705790876;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 10:45:07;10:45:17;30-01-2025
+nomena;0388328231;;1705800775;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 10:45:17;10:45:18;30-01-2025
+nomena;;;;;;;Traitement predictif;code secret;; 11:05:48;11:05:54;04-02-2025
+nomena;0382687313;;1705790865;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 11:05:54;11:05:55;04-02-2025
+nomena;0381783651;;1705790863;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 11:05:55;11:06:04;04-02-2025
+nomena;0344321875;;1705800765;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 11:06:04;11:06:15;04-02-2025
+nomena;;;;;;;Traitement predictif;code secret;; 11:12:02;11:12:04;04-02-2025
+nomena;0346379707;;1705790855;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 11:12:04;15:49:10;04-02-2025
+Tendry;;;;;;;Traitement predictif;certification;; 16:03:42;16:03:48;04-02-2025
+nomena;;;;;;;Traitement predictif;code secret;; 16:04:01;16:04:05;04-02-2025
+nomena;;;;;;;Traitement predictif;code secret;traitement; 16:04:05;16:04:08;04-02-2025
+nomena;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:04:08;16:04:12;04-02-2025
+nomena;;;;;;;Traitement manuel;code secret;; 16:04:11;16:04:21;04-02-2025
+nomena;0346877848;;1705790882;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:04:21;16:04:25;04-02-2025
+nomena;0383224879;;1705800779;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:04:25;16:04:50;04-02-2025
+nomena;0383056242;;1705790876;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:04:50;16:05:06;04-02-2025
+nomena;0388328231;;1705800775;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:05:06;16:05:16;04-02-2025
+nomena;0344488620;;1705800773;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:05:16;16:05:40;04-02-2025
+nomena;0344488620;;1705800773;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:05:16;16:37:14;04-02-2025
+nomena;;;;;;;Traitement predictif;code secret;; 16:04:47;16:04:50;25-03-2025
+nomena;0349052208;;1705790866;reclamer / MVola /;;;Traitement predictif;code secret;traitement; 16:04:50;16:06:19;25-03-2025
+nomena;;;;;;;Traitement predictif;code secret;PAUSE_BREAK; 16:06:19;16:45:30;26-03-2025
+Tendry;;;;;;;Traitement predictif;certification;; 16:45:37;16:45:41;26-03-2025
+Tendry;dg;dgdg;dg;dg;certifié;initie;Traitement manuel;certification;; 16:45:41;16:46:00;26-03-2025

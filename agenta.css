@@ -1,0 +1,41 @@
+body{
+
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    /* justify-content: center; */
+    background-image: url('supervision.jpg');
+    background-size: cover; /* Adapte l'image pour couvrir tout le body */
+    background-repeat: no-repeat; /* Évite les répétitions de l'image */
+    /* background-position: center; Centre l'image */
+    height:50%;
+    width:50% ;
+    background-color: black;
+}
+h1{
+   
+    color:yellow;
+    
+}
+form{
+   
+    background-repeat: no-repeat; /* Évite les répétitions de l'image */
+   background-color: rgb(150, 92, 27);
+    align-items: center;
+    color:white;
+    top:15%;
+ justify-content: center; 
+ position:center;
+ display: flex;
+ flex-direction: column;
+ 
+}
+input{
+    font-size: 20px;
+    
+}
+button{
+    font-size: 20px;
+    
+}

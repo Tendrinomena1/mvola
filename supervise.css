@@ -1,0 +1,52 @@
+body {
+    
+    margin: 0; /* Supprimer les marges par défaut */
+    height: 100%; /* Définit la hauteur du body à 100% de la hauteur de la fenêtre */
+    width: 100%; /* Définit la largeur du body à 100% de la fenêtre */
+    color: black; /* Change la couleur du texte */
+    display: flex; /* Utilise Flexbox pour centrer les éléments */
+    /* justify-content: center;  */
+    /* align-items: center;  */
+    background-image: url('agent.jpg');
+    background-size: cover; /* Adapte l'image pour couvrir tout le body */
+    background-repeat: no-repeat; /* Évite les répétitions de l'image */
+    background-color: green; /* Fallback en cas d'erreur de l'image */
+   
+}
+h1{
+   
+    color:white;
+    
+}
+
+
+form{
+    color:black;
+}
+
+
+.serveur{
+    position:absolute;
+    top:15%;
+    left:1%;
+    
+    display:flex;
+    flex-direction:column ;
+    align-items:center;
+    background-color:white;
+    justify-content:center;
+}
+
+.monitoring{
+    position:absolute;
+    left:40%;
+    top:15%;
+    display:flex;
+    flex-direction: column;
+    height:75%;
+    width:60%;
+    background-color: rgba(128, 128, 128, 0.5);
+    justify-content:center;
+    align-items:center;
+
+}
